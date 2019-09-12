@@ -1,2 +1,2 @@
-# Traffic-light
+# Traffic light
 Traffic light for TrueConf
